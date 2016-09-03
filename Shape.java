@@ -1,4 +1,4 @@
-package com.javacore.practice;
+//package com.javacore.practice;
 
 public class Shape
 {
